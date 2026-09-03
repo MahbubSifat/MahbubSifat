@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Github Banner.png" alt="Md Mahbubul Alom Sifat - GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Mahbubul Alom Sifat</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
