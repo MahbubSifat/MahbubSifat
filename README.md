@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="./Github Banner.png" alt="Md Mahbubul Alom Sifat - GitHub Banner" width="100%">
+  <img src="./Github Banner.png" alt="Md. Mahbubul Alom Sifat - GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Mahbubul Alom Sifat</h1>
 
 <h3 align="center">
-  Software Engineering Student | Web Developer | Exploring AI, Automation & Machine Learning
+  Software Engineering Student | Web Development Learner | Exploring AI & Automation
 </h3>
 
 <p align="center">
   <a href="https://github.com/mahbubsifat">
-    <img src="https://img.shields.io/github/followers/mahbubsifat?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/mahbubsifat?label=Followers&style=flat-square" alt="GitHub Followers">
   </a>
   <a href="https://github.com/mahbubsifat">
-    <img src="https://img.shields.io/github/stars/mahbubsifat?label=Stars&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/mahbubsifat?label=Stars&style=flat-square" alt="GitHub Stars">
   </a>
 </p>
 
@@ -23,221 +23,185 @@
 
 - 🎓 Software Engineering Student
 - 🌱 Currently learning **Full-Stack Web Development**
-- ⚛️ Currently exploring **React & TypeScript**
-- 🤖 Interested in **AI, Automation & Machine Learning**
-- 💡 Passionate about building practical and problem-solving applications
-- 🚀 Exploring modern web technologies and developer tools
-- 📚 Always learning, building and improving
+- 💻 Building my foundation in **Web & Software Development**
+- 🤖 Exploring **AI, Automation & Machine Learning**
+- 📱 Interested in **Cross-Platform Mobile Development**
+- ⚙️ Learning to build practical solutions using modern technologies
+- 🚀 Focused on continuous learning, problem solving and building real-world projects
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Languages
+### 💻 Programming Languages
+
+<p align="left">
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  </a>
+
+  <a href="https://isocpp.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  </a>
+
+  <a href="https://dart.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Web Development
+
+#### Frontend
 
 <p align="left">
   <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   </a>
+
   <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://skillicons.dev/icons?i=css" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
   </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
+
   <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="48" />
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="48" />
-  </a>
-  <a href="https://dart.dev/">
-    <img src="https://skillicons.dev/icons?i=dart" width="48" />
-  </a>
-  <a href="https://en.cppreference.com/w/c">
-    <img src="https://skillicons.dev/icons?i=c" width="48" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" />
-  </a>
-</p>
 
----
-
-### CSS Frameworks & Libraries
-
-<p align="left">
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
-  </a>
-  <a href="https://mui.com/">
-    <img src="https://skillicons.dev/icons?i=materialui" width="48" />
-  </a>
-</p>
-
----
-
-### JavaScript Frameworks & Libraries
-
-<p align="left">
   <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="48" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
-  </a>
-  <a href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" width="48" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   </a>
 </p>
 
 ---
 
-### API & Query Technologies
+### 📱 Mobile Development
 
 <p align="left">
-  <a href="https://graphql.org/">
-    <img src="https://skillicons.dev/icons?i=graphql" width="48" />
+  <a href="https://dart.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
   </a>
-</p>
 
----
-
-### Database & Backend Services
-
-<p align="left">
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" />
-  </a>
-  <a href="https://appwrite.io/">
-    <img src="https://skillicons.dev/icons?i=appwrite" width="48" />
-  </a>
-  <a href="https://supabase.com/">
-    <img src="https://skillicons.dev/icons?i=supabase" width="48" />
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" width="48" />
-  </a>
-</p>
-
----
-
-### Mobile Development
-
-<p align="left">
   <a href="https://flutter.dev/">
-    <img src="https://skillicons.dev/icons?i=flutter" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
   </a>
+
   <a href="https://developer.android.com/">
-    <img src="https://skillicons.dev/icons?i=androidstudio" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50"/>
   </a>
 </p>
 
 ---
 
-### DevOps & Development Tools
+### 🗄️ Database & Backend Services
+
+<p align="left">
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>
+  </a>
+
+  <a href="https://firebase.google.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ DevOps & Development Tools
 
 <p align="left">
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="48" />
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" />
-  </a>
+
   <a href="https://www.jenkins.io/">
-    <img src="https://skillicons.dev/icons?i=jenkins" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   </a>
 </p>
 
 ---
 
-### Automation
+### 🤖 Automation & Workflow Tools
 
 <p align="left">
+  <a href="https://n8n.io/">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="50" height="50"/>
+  </a>
+
   <a href="https://zapier.com/">
-    <img src="https://skillicons.dev/icons?i=zapier" width="48" />
+    <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.gohighlevel.com/">
+    <img src="https://cdn.simpleicons.org/gohighlevel/1A73E8" alt="GoHighLevel" width="50" height="50"/>
   </a>
 </p>
 
 ---
 
-### Deployment Platforms
+## 📚 Currently Learning
 
-<p align="left">
-  <a href="https://vercel.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" />
-  </a>
-  <a href="https://www.netlify.com/">
-    <img src="https://skillicons.dev/icons?i=netlify" width="48" />
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" width="48" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-Currently%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Exploring-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Exploring-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-green?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 My Development Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubsifat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahbubsifat&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubsifat" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahbubsifat/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
-
-  <a href="https://www.facebook.com/mahbubsifat03" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="48" />
-  </a>
-
-  <a href="https://codeforces.com/profile/mahbub28" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" />
-  </a>
-
-  <a href="https://discord.gg/mahbubsifat28_42116" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="48" />
-  </a>
-</p>
-
-📫 **Email:** `mahbubsifatbdu06@gmail.com`
-
----
-
-<p align="center">
-  <b>💻 Build. Learn. Automate. Repeat. 🚀</b>
-</p>
+```text
+Software Engineering
+        │
+        ├── Programming
+        │     ├── C
+        │     ├── C++
+        │     └── Java
+        │
+        ├── Web Development
+        │     ├── HTML5
+        │     ├── CSS3
+        │     ├── JavaScript
+        │     ├── TypeScript
+        │     └── React
+        │
+        ├── Mobile Development
+        │     ├── Dart
+        │     ├── Flutter
+        │     └── Android
+        │
+        ├── Database & Backend Services
+        │     ├── MySQL
+        │     └── Firebase
+        │
+        ├── DevOps & Tools
+        │     ├── Git
+        │     ├── Linux
+        │     └── Jenkins
+        │
+        └── Automation
+              ├── n8n
+              ├── Zapier
+              └── GoHighLevel
