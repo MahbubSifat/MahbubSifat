@@ -7,14 +7,6 @@
 <h3 align="center">
   Software Engineering Student | Web Development Learner | Exploring AI & Automation
 </h3>
-
-<p align="center">
-  <a href="https://github.com/mahbubsifat">
-    <img src="https://img.shields.io/github/followers/mahbubsifat?label=Followers&style=flat-square" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/mahbubsifat">
-    <img src="https://img.shields.io/github/stars/mahbubsifat?label=Stars&style=flat-square" alt="GitHub Stars">
-  </a>
 </p>
 
 ---
