@@ -145,8 +145,8 @@
   </a>
 
   <a href="https://www.gohighlevel.com/">
-    <img src="https://cdn.simpleicons.org/gohighlevel/1A73E8" alt="GoHighLevel" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge&logo=none" alt="GoHighLevel"/>
+</a>
 </p>
 
 ---
