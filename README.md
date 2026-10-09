@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Github Banner.png" alt="Md. Mahbubul Alom Sifat - GitHub Banner" width="100%">
+  <img src="./github banner1.png" alt="Md. Mahbubul Alom Sifat - GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Mahbubul Alom Sifat</h1>
